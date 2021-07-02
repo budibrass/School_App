@@ -52,5 +52,3 @@ Hal yang perlu dilakukan untuk memulai Aplikasi Web :
     - LIST : http://localhost:3000/teachers
 - Subject's
     - LIST : http://localhost:3000/subjects
-
-you can view it on localhost:3000

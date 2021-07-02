@@ -12,6 +12,7 @@
 ## Task
 Kamu diminta untuk membuat sebuah School App sederhana yang dimana didalam nya terdapat data Students, Teachers, dan Subjects, untuk data Students kita bisa melakukan CRUD, sedangkan untuk data Teacher dan Subject kita hanya diminta untuk menampilkan datanya saja.
 Buatlah program dengan pattern MVC, dan jika sebelumnya kita menggunakan Callback di keseluruhan syntax, maka sekarang gunakanlah Promise. Lalu simpan data tidak lagi di `.json` melainkan di database, pada kali ini kita akan menggunakan Postgres sebagai databasenya.
+Data `.json` di awal hanya digunakan untuk seeding data saja.
 
 # Getting Started
 Hal yang perlu dilakukan untuk memulai Aplikasi Web :
